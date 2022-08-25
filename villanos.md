@@ -2,3 +2,4 @@
 
 * Dr. Doom
 * Red Pony
+* Dr. House
